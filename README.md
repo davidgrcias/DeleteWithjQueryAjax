@@ -1,2 +1,0 @@
-# DeleteWithjQueryAjax
-DeleteWithjQueryAjax
